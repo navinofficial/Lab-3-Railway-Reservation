@@ -1,5 +1,6 @@
 # Lab-3-Railway-Reservation
-
+# NAME :SANJAY KUMAR.B
+# REG NO:212223220095
 ### AIM:
 To develop the Railway Reservation System using Star UML tool.
 ### PROBLEM STATEMENT:
@@ -18,6 +19,29 @@ phones.
 of the online bus ticket system is to provide another way for transnational customers to buy
 their tickets.
 ### UML DIAGRAMS:
+
+USECASE DIAGRAM:
+<img width="1100" height="943" alt="image" src="https://github.com/user-attachments/assets/e103d703-2ffb-4370-838f-6921dc875fe3" />
+
+
+CLASS DIAGRAM:
+<img width="1136" height="785" alt="image" src="https://github.com/user-attachments/assets/8f300fc6-57e2-4907-bae8-5c3667d11e1c" />
+
+
+ACTIVITY DIAGRAM:
+<img width="788" height="1013" alt="image" src="https://github.com/user-attachments/assets/1fe99361-5a85-40e6-bc03-2c53206c9a48" />
+
+
+SEQUENCE DIAGRAM:
+<img width="1211" height="969" alt="image" src="https://github.com/user-attachments/assets/cde171bb-a2e9-4c46-a6d6-731cc00d40a8" />
+
+
+COMMUNICATION DIAGRAM:
+<img width="1231" height="719" alt="image" src="https://github.com/user-attachments/assets/ee36d94e-4da6-4206-9fe1-df34acb4ad21" />
+
+
+PACKAGE DIAGRAM:
+<img width="773" height="477" alt="image" src="https://github.com/user-attachments/assets/3d680091-eec0-46c7-9a5f-0b570431f8e3" />
 
 
 
